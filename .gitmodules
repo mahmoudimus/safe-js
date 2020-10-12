@@ -1,0 +1,6 @@
+[submodule "lib/jsdom"]
+	path = lib/jsdom
+	url = https://git.gitorious.org/jsdom-client/jsdom-client.git
+[submodule "lib/jsonml"]
+	path = lib/jsonml
+	url = https://github.com/mckamey/jsonml.git
